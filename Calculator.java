@@ -20,8 +20,8 @@ public class Calculator {
     System.out.println("Give me another integer and I will square it");
     int userSquare = input.nextInt();
     System.out.println(userSquare + " squared equals " + squareNumber());
-    System.out.println("Now I will double that squared number! ")
-   System.out.println( squared + " doubled equals " + doubleSquare);
+    System.out.println("Now I will double that squared number! ");
+    System.out.println( squared + " doubled equals " + doubleSquare);
 
   }
 
